@@ -37,13 +37,3 @@ Each project is designed to improve your understanding of microcontroller fundam
 - Writing optimized and modular **C code** for microcontrollers
 
 ---
-
-## 👨‍💻 Developed By
-
-**Arshia Saberian**  
-
----
-
-## 💡 Want to contribute?
-
-Feel free to fork this repository and submit pull requests if you'd like to expand it with new AVR-based mini-projects or simulations.
